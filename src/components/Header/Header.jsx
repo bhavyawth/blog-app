@@ -47,8 +47,6 @@ function Header() {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <Logo width="80px" />
-            {/* Optional title if needed */}
-            {/* <span className="text-xl font-semibold">Sahayak</span> */}
           </Link>
 
           {/* Navigation */}
